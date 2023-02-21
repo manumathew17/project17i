@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="844e5f64-0029-41ad-a97c-f861c86c6a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../employee/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/main/java/com/project17i/employee/collection/EmployeeCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/main/java/com/project17i/employee/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/main/java/com/project17i/employee/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/main/java/com/project17i/employee/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/src/main/java/com/project17i/employee/service/interfaces/EmployeeServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parent/src/main/java/com/project17i/parent/collection/ParentCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parent/src/main/java/com/project17i/parent/controller/ParentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parent/src/main/java/com/project17i/parent/repository/ParentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parent/src/main/java/com/project17i/parent/service/impl/ParentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parent/src/main/java/com/project17i/parent/service/interfaces/ParentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/configs/Constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/routes/routeManager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/theme/appColors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/theme/appStyle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/theme/materialColorTheme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/ui/models/modelEmployee.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/ui/screens/createAccountScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/ui/screens/dashBoardScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/ui/screens/loginScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/ui/screens/splash/splashcreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/employeeapp/lib/ui/utilities/SharedPreference.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/dialogs/loadingSpinner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/screens/dashboardScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/screens/detailsConfirmation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/screens/loginScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/screens/profileScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/screens/splashScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/styles/appStyles.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/styles/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/widgets/primaryButton.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../frontend/parentapp/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lu2IO68D6XpZnrKq93PcJ1rkRb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="844e5f64-0029-41ad-a97c-f861c86c6a6f" name="Changes" comment="" />
+      <created>1676706569106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676706569106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
